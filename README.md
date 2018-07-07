@@ -16,3 +16,4 @@ https://mariadb.com/kb/en/library/installing-mariadb-on-macos-using-homebrew/
 1. [Create Database](./c001_create_database.md) - show / create / use
 2. [Create Table](./c002_create_table.md) - create / insert /show /describe
 3. [Select statement](./c003_select_statement.md) - select
+4. [Update statement](./c004_update_statement.md) - update
