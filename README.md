@@ -17,3 +17,5 @@ https://mariadb.com/kb/en/library/installing-mariadb-on-macos-using-homebrew/
 2. [Create Table](./c002_create_table.md) - create / insert /show /describe
 3. [Select statement](./c003_select_statement.md) - select
 4. [Update statement](./c004_update_statement.md) - update
+5. [MariaDB Basics](./c005_mariaDB_basics.md) - create / use / describe / insert / select / limit / join / using / where / update / delete
+6. [Getting Data](./c006_getting_data.md) - select / limit / where / order by / asc / desc / concat / join / like
