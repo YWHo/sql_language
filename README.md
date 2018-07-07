@@ -1,11 +1,6 @@
 # sql_language
 SQL for database query
 
-The code is based on the tutorial from https://www.tutorialspoint.com/sql
-
-# sql_language
-SQL for database query
-
 The code is based on the tutorial from https://mariadb.com/kb/en/library/beginner-mariadb-articles/
 
 ## Install MariaDB on MacOS using Homebrew
